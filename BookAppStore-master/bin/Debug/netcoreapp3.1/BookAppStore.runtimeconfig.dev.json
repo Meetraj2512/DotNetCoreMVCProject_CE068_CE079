@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\meetr\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\meetr\\.nuget\\packages"
+    ]
+  }
+}
